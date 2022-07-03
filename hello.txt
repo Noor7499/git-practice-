@@ -1,0 +1,3 @@
+git config --global user.name "Noor7499"
+git config --global user.email "noor.hake.room@gmail.com"
+hello world 
